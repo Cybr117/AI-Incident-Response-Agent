@@ -1,0 +1,7 @@
+ERROR: Database connection timeout after 30 seconds
+WARN: API latency exceeded threshold for payment-service
+INFO: Retrying failed request
+CRITICAL: Payment service unavailable
+ERROR: Kafka consumer failed to reconnect
+INFO: Restarting worker process
+WARN: CPU usage exceeded 85%
